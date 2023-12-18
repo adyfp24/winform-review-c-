@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ratingKebonAgung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ratingKebonAgung.Designer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ratingPatemon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ratingPatemon.Designer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ratingWatuUlo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ratingRembangan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ratingWatuUlo.Designer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
